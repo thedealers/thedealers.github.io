@@ -1,0 +1,322 @@
+html
+{
+    box-sizing: border-box;
+}
+a
+{
+    text-decoration: none;
+}
+
+.BG {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1400px;
+    height: 1618px;
+    z-index: 4;
+    background-color: #e8eff0;
+}
+
+.Content_BG {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(226, 226, 226);
+    background-color: rgb(252, 252, 252);
+    position: absolute;
+    left: 217px;
+    top: 223px;
+    width: 1000px;
+    height: 1277px;
+    z-index: 3;
+}
+
+  .Logo {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1400px;
+    height: 1618px;
+    z-index: 196;
+  }
+  .Dealers {
+    font-size: 25px;
+    font-family: Yellowtail;
+    color: rgb(75, 75, 75);
+    line-height: 1.24;
+    text-align: left;
+    -moz-transform: matrix( 3.55682226466776,0,0,3.55682226466776,0,0);
+    -webkit-transform: matrix( 3.55682226466776,0,0,3.55682226466776,0,0);
+    -ms-transform: matrix( 3.55682226466776,0,0,3.55682226466776,0,0);
+    position: absolute;
+    left: 304.089px;
+    top: 67.5px;
+    z-index: 195;
+  }
+
+  .Menu {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1400px;
+    height: 1618px;
+    z-index: 193;
+  }
+  .Mail {
+   
+    position: absolute;
+    left: 587px;
+    top: 148px;
+    width: 19px;
+    height: 13px;
+    z-index: 192;
+  }
+  ul{
+      list-style: none;
+  }
+  #Home{
+    font-size: 20.315px;
+    font-family: "Helvetica";
+    color: rgb(75, 75, 75);
+    font-weight: bold;
+    line-height: 1.526;
+    text-align: left;
+    -moz-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    -webkit-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    -ms-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    position: absolute;
+    left: 205px;
+    top: 120px;
+    z-index: 191;
+
+    
+  }
+
+  #About{
+    font-size: 20.315px;
+    font-family: "Helvetica";
+    color: rgb(75, 75, 75);
+    font-weight: bold;
+    line-height: 1.526;
+    text-align: left;
+    -moz-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    -webkit-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    -ms-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    position: absolute;
+    left: 281px;
+    top: 120px;
+    z-index: 191;
+
+    
+  }
+
+  #All-deals{
+    font-size: 20.315px;
+    font-family: "Helvetica";
+    color: rgb(75, 75, 75);
+    font-weight: bold;
+    line-height: 1.526;
+    text-align: left;
+    -moz-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    -webkit-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    -ms-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    position: absolute;
+    left: 347px;
+    top: 120px;
+    z-index: 191;
+  }
+
+  #Submit-your-deal{
+    font-size: 20.315px;
+    font-family: "Helvetica";
+    color: rgb(75, 75, 75);
+    font-weight: bold;
+    line-height: 1.526;
+    text-align: left;
+    -moz-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    -webkit-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    -ms-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+    position: absolute;
+    left: 420px;
+    top: 120px;
+    z-index: 191;
+  }
+
+  .Deviders {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1400px;
+    height: 1618px;
+    z-index: 190;
+  }
+  .Shape_4_copy_14 {
+    position: absolute;
+    left: 571px;
+    top: 147px;
+    width: 1px;
+    height: 13px;
+    z-index: 189;
+  }
+  .Shape_4_copy_13 {
+    position: absolute;
+    left: 429px;
+    top: 147px;
+    width: 1px;
+    height: 13px;
+    z-index: 188;
+  }
+  .Shape_4_copy_11 {
+    position: absolute;
+    left: 343px;
+    top: 147px;
+    width: 1px;
+    height: 13px;
+    z-index: 187;
+  }
+  .Shape_4_copy_10 {
+    position: absolute;
+    left: 272px;
+    top: 147px;
+    width: 1px;
+    height: 13px;
+    z-index: 186;
+}
+
+.Sign_up_mailbox {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1618px;
+  z-index: 183;
+}
+
+#Top-stripe{
+  position: absolute;
+  left: 670px;
+  top: 44px;
+  width: 550px;
+  height: 10px;
+  z-index: 172;
+}
+
+#Sign-up-mailbox-BG {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(226, 226, 226);
+  background-color: rgb(252, 252, 252);
+  position: absolute;
+  left: 670px;
+  top: 42px;
+  width: 550px;
+  height: 135px;
+  z-index: 171;
+}
+
+#Sign_up_mailbox_header {
+  font-size: 25px;
+  font-family: "Helvetica";
+  color: rgb(69, 69, 69);
+  font-weight: bold;
+  line-height: 1.24;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.46);
+  -moz-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  -webkit-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  -ms-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  position: absolute;
+  left: -75px;
+  z-index: 182;
+}
+
+#Input-mail-box {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(229, 229, 229);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 20px;
+  top: 70px;
+  width: 301px;
+  height: 40px;
+  z-index: 179;
+}
+
+#Button-BG {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(146, 167, 181);
+  border-radius: 4px;
+  background-image: -moz-linear-gradient( 90deg, rgb(141,164,182) 0%, rgb(163,182,196) 46%, rgb(185,199,210) 48%, rgb(187,201,212) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(141,164,182) 0%, rgb(163,182,196) 46%, rgb(185,199,210) 48%, rgb(187,201,212) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(141,164,182) 0%, rgb(163,182,196) 46%, rgb(185,199,210) 48%, rgb(187,201,212) 100%);
+  box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.39);
+  position: absolute;
+  left: 360px;
+  top: 70px;
+  width: 120px;
+  height: 40px;
+  z-index: 183;
+  font-weight: bold;
+
+}
+
+.input_Email {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1618px;
+  z-index: 181;
+}
+.Enter_Your_E_mail_Address {
+  font-size: 20.315px;
+  font-family: "Helvetica";
+  color: rgb(190, 190, 190);
+  line-height: 1.526;
+  text-align: left;
+  -moz-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  -webkit-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  -ms-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  position: absolute;
+  left: 706.291px;
+  top: 117.5px;
+  z-index: 180;
+}
+
+.Button_Subscribe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1618px;
+  z-index: 177;
+}
+.Subscribe_Me {
+  font-size: 20.315px;
+  font-family: "HelveticaNeue";
+  color: rgb(82, 94, 106);
+  font-weight: bold;
+  line-height: 1.526;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.32);
+  -moz-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  -webkit-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  -ms-transform: matrix( 0.68914771307355,0,0,0.68914771307355,0,0);
+  position: absolute;
+  left: 1041.167px;
+  top: 117px;
+  z-index: 176;
+}
+
+.stemp {
+  background-image: url("stemp.png");
+  position: absolute;
+  left: 1115px;
+  top: 2px;
+  width: 120px;
+  height: 123px;
+  z-index: 173;
+}
+
+
